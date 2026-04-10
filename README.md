@@ -1,4 +1,4 @@
-# OIBSIP_Data_Analytics_intership_Project3
+# OIBSIP_Data_Analytics_Task7
 Fraud Detection using Machine Learning. This project analyzes credit card transaction data and builds a classification model to detect fraudulent transactions.
 # OBISIP Data analytics Internship - Task 7
 
