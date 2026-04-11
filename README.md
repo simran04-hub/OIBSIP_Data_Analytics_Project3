@@ -1,4 +1,3 @@
-
 🧠 OIBSIP_Data_Analytics_Task7
 
 💳 Fraud Detection Using Machine Learning on Credit Card Transactions
@@ -115,7 +114,15 @@ Use advanced techniques like SMOTE, Random Forest, or XGBoost to further improve
 
 The fraud detection model successfully identifies fraudulent transactions with high accuracy. This project demonstrates how machine learning can be effectively used to enhance financial security systems.
 
----
+📁 Project Structure
+
+OIBSIP_Data_Analytics_Task7
+
+fraud_detection.ipynb
+
+report.pdf
+
+README.md
 
 📬 Connect with Me
 
